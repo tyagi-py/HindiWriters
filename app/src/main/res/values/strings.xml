@@ -67,4 +67,18 @@
             गोस्वामी तुलसीदास (1511 - 1623) हिंदी साहित्य के महान कवि थे। इनका जन्म सोरों शूकरक्षेत्र, वर्तमान में कासगंज (एटा) उत्तर प्रदेश में हुआ था। कुछ विद्वान् आपका जन्म राजापुर जिला बाँदा(वर्तमान में चित्रकूट) में हुआ मानते हैं। इन्हें आदि काव्य रामायण के रचयिता महर्षि वाल्मीकि का अवतार भी माना जाता है। श्रीरामचरितमानस का कथानक रामायण से लिया गया है। रामचरितमानस लोक ग्रन्थ है और इसे उत्तर भारत में बड़े भक्तिभाव से पढ़ा जाता है। इसके बाद विनय पत्रिका उनका एक अन्य महत्वपूर्ण काव्य है। महाकाव्य श्रीरामचरितमानस को विश्व के १०० सर्वश्रेष्ठ लोकप्रिय काव्यों में ४६वाँ स्थान दिया गया।
         </item>
     </string-array>
+    <string-array name="url">
+        <item>https://en.wikipedia.org/wiki/Premchand</item>
+        <!--<item>https://en.wikipedia.org/wiki/Suryakant_Tripathi_%27Nirala%27</item>-->
+        <item>https://www.bharatdarshan.co.nz/author-profile/17/nirala-biography.html</item>
+        <item>https://en.wikipedia.org/wiki/Ramdhari_Singh_Dinkar</item>
+        <item>https://en.wikipedia.org/wiki/Mahadevi_Varma</item>
+        <item>https://en.wikipedia.org/wiki/Harivansh_Rai_Bachchan</item>
+        <item>https://en.wikipedia.org/wiki/Kabir</item>
+        <item>https://en.wikipedia.org/wiki/Yashpal</item>
+        <item>https://en.wikipedia.org/wiki/Bhisham_Sahni</item>
+        <item>https://en.wikipedia.org/wiki/Tulsidas</item>
+
+    </string-array>
+
 </resources>

@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent=new Intent(MainActivity.this,about_writer.class);
                 intent.putExtra("pos",position);
                 startActivity(intent);
+
             }
 
 
